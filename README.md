@@ -2,7 +2,8 @@
 ### **I'M ASIF HOSSAIN KHAN**
 - 🌱 I’m currently learning full-stack development and mobile app development
 - 👯 I’m looking to collaborate on full-stack projects.
-- 📫 How to reach me: [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/asif-hossain-khan-8195a2215/))
+- 📫 How to reach me:
+-  [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/asif-hossain-khan-8195a2215/))
 
 
 
