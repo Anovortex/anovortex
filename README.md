@@ -9,7 +9,7 @@
 
 > Extroverted full-stack developer passionate about crafting innovative solutions!  Fueled by a collaborative spirit, I leverage my skills at Mybee Digital Agency to bridge the gap between front-end and back-end development. A lifelong learner, I constantly seek ways to improve my communication and technical abilities.
 
-### Technologies
+## Technologies
 
 | Stacks        | Technologies  |
 | ------------- | ------------- |
