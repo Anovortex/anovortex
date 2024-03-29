@@ -1,6 +1,8 @@
 ### Hello there 👋
 ### **I'M ASIF HOSSAIN KHAN**
-Currently working with [Mybee Digital Agency](https://www.linkedin.com/company/mybee-technologies-inc/)
+- 🌱 I’m currently learning full-stack development and mobile app development
+- 👯 I’m looking to collaborate on full-stack projects.
+- - 📫 How to reach me: [![Button Text](https://img.shields.io/badge/Button-LabelColor.svg)](http://link-to-your-page.com)
 
 
 
