@@ -11,7 +11,7 @@
 > Extroverted full-stack developer passionate about crafting innovative solutions!  Fueled by a collaborative spirit, I leverage my skills at Mybee Digital Agency to bridge the gap between front-end and back-end development. A lifelong learner, I constantly seek ways to improve my communication and technical abilities.
 
 ## Technologies
-
+.center[ 
 | Stacks        | Technologies  |
 | ------------- | ------------- |
 | Language      | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
