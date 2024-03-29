@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on full-stack projects.
 - 📫 How to reach me:
   
-[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/asif-hossain-khan-8195a2215/))       [![Follow me on Twitter](https://img.shields.io/twitter/follow/ano_vortex?style=social)](https://twitter.com/ano_vortex)
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/asif-hossain-khan-8195a2215/))       [![Follow me on Twitter](https://img.shields.io/twitter/follow/ano_vortex?style=for-the-badge&logo=twitter)](https://twitter.com/ano_vortex)
 
 
 
