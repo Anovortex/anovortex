@@ -1,6 +1,6 @@
 ### Hello there 👋
 ### **I'M ASIF HOSSAIN KHAN**
-Currently working with [Mybee Digital Agency].(https://www.linkedin.com/company/mybee-technologies-inc/)
+Currently working with [Mybee Digital Agency](https://www.linkedin.com/company/mybee-technologies-inc/)
 
 
 
